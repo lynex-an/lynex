@@ -1,0 +1,12 @@
+# 🛑 ملفات الأمان/الإعدادات المحلية 🛑
+db_config.php 
+db_connect.php 
+
+# 🛑 المجلدات المؤقتة 🛑
+/uploads/
+
+# ملفات النظام/البيئة
+.env
+.idea/
+__pycache__/
+*.DS_Store
